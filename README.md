@@ -6,6 +6,6 @@ the application starts with a MainActivity that displays a question and,
 if the user decides to cheat , MainActivity passes the answer to the question
 to CheatActivity which has a confirmation button that the user really does want to cheat.
 once clicked the answer will be shown , CheatActivity sends info whether user cheated or not 
-to MainActivity , if he did cheat , a judjemental toast pops up whenever
+to MainActivity , if he did cheat , a judgemental toast pops up whenever
 he answers the question...
 the application handles run-time configuration changes like screen rotation.
